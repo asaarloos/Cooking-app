@@ -1,5 +1,3 @@
-# version-control-exercises
+# Cooking App
 
-This a test text to get use to git and practice.
-
-Test if this works via git bash
+In this repository we are gonna build an app to use for independent cookers.
